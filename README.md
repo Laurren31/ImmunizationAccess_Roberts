@@ -1,10 +1,10 @@
 # ImmunizationAccess_Roberts
 README: Accessibility of Immunization Across Calgary 
 
-Project overview:
+Project Overview:
 The access to vaccination sites indicator examines the spatial dimensions of public health equity, exploring whether income influences the accessibility of immunization services. This analysis compares the spatial distribution of vaccination sites with median household income across Calgary’s Community Service Areas (CSAs) to identify potential disparities in the availability of services. Namely, this indicator seeks to answer the question: To what extent does household income affect access to immunization within Calgary? 
 
-Folder structure: 
+Folder Structure: 
 Within the main folder resides 3 subfolders: Data, Documents, and Output Figures. 
 - All data will be stored in the “Data” folder. Within this folder there are two subfolders: “Raw Data”: this folder contains all the unedited raw data directly from the source; and Processed Data: this folder includes edited intermediate and final data, as well as associated metadata and schemas. 
 - The “Documents” folder holds documents such as the README, a written report including results and findings, and a citations document.
@@ -15,12 +15,12 @@ CRS and Data Format:
 - All data was projected using NAD 1983 CSRS UTM Zone 11N.
 - The CEI is completed over a Community Service Areas: custom geography made from combining two adjacent census tracts to reach ~10,000 people. 
 
-Data sources: 
+Data Sources: 
 - Vaccination Locations: sourced from Calgary Open Data Portal, data provided by Blue Cross, Accessed October 16, 2025
 - Median Income: source from Calgary Open Data Portal, data provided by Calgary Equity Index Overlay Statistics, Accessed October 16, 2025
 - 2021 Federal Population and Dwelling Count by Community: sources for Statistics Canada, data provided by the 2021 Federal Census, Accessed October 17, 2025
 
-Methods summary:
+Methods Summary:
 This analysis was completed using ArcGIS Pro and Excel using a modified proximity-based approach. Buffer zones of 1 km were created around each immunization site and population count was calculated for each catchment. Population calculations were completed under the assumption of uniform distribution of individuals and used Euclidean distances. Using the population counts of each catchment, accessibility scores were calculated. This analysis defines accessibly scores as the number of vaccinations sites available per 1,000 individuals. Following this, an ANOVA: Single Factors analysis was completed to determine if the null hypothesis of no statistically significant relationship between median income and spatial access could be rejected or accepted.  
 - Detailed methodology can be found in the WrittenReport_Accessibility_of_Immunization
 
