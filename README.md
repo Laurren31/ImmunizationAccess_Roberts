@@ -10,7 +10,7 @@ Within the main folder resides 3 subfolders: Data, Documents, and Output Figures
 - The “Documents” folder holds documents such as the README, a written report including results and findings, and a citations document.
 - The “Output_Figures” folder contains two subfolders: the “Graphs” folder holds output scatterplot and boxplot graphs; the “Maps” folder contains output map layouts. 
 
-CRS and data format notes:
+CRS and Data Format:
 - Processed data is formatted as CSV files while the raw data is mostly Shapefiles. 
 - All data was projected using NAD 1983 CSRS UTM Zone 11N.
 - The CEI is completed over a Community Service Areas: custom geography made from combining two adjacent census tracts to reach ~10,000 people. 
