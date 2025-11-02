@@ -47,9 +47,12 @@ Alphabetical Field Dictionary:
 - MEAN_VS_PER_1000: mean value of vaccination sites per 1000 people. 
 - OJECTID: the CSA number (1 through 113)
 - PHONE: phone number of vaccination site
-- QUARTILE_RANKING: quartile ranking derived from Natural Breaks (Jenks) 
+- PNEUMOCOCCAL: If Pneumococcal vaccinations are offered at vaccination location
+- QUARTILE_RANKING: quartile ranking derived from Natural Breaks (Jenks)
+- RSV: If RSV vaccinations are offered at vaccination location 
 - SUM_POP_CATCHMENT_PIECE: population covered by each buffer
 - TARGET_FID: ID of the target feature from join
+- TDAP: If TDAP vaccinations are offered at vaccination location
 - VALUE: median income value 
 - VALUE_LABEL: median income value distinguished by data type (currency)
 - NEAR_FID: FID of nearest vaccination site
