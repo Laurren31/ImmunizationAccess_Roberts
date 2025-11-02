@@ -40,7 +40,8 @@ Alphabetical Field Dictionary:
 - COVID_19: If Covid-19 vaccinations are offered at vaccination location
 - DA_AREA_m2: area of dissemination area in meters squared
 - DATA_CURRENCY: information on the year or date data was procured. 
-- Fields:  COVID-19, RSV, TDAP and PNEUMOCCOCAL: if this type of vaccination is available in each vaccination site 
+- Fields:  COVID-19, RSV, TDAP and PNEUMOCCOCAL: if this type of vaccination is available in each vaccination site
+- Global_ID: ID assigned to community by 2021 Census
 - JOIN_COUNT: How many features from the join layer were matches to the target layer
 - JOIN_FID: ID of the joined feature
 - MEAN_VS_PER_1000: mean value of vaccination sites per 1000 people. 
