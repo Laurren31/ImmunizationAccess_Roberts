@@ -51,6 +51,8 @@ Alphabetical Field Dictionary:
 - QUARTILE_RANKING: quartile ranking derived from Natural Breaks (Jenks)
 - RSV: If RSV vaccinations are offered at vaccination location 
 - SUM_POP_CATCHMENT_PIECE: population covered by each buffer
+- SITES_PER_1000: vaccination sites per 1000 individuals
+- SITES_PER_1000_FILLED: vaccination sites per 100 individuals with null values filled as 0
 - TARGET_FID: ID of the target feature from join
 - TDAP: If TDAP vaccinations are offered at vaccination location
 - VALUE: median income value 
