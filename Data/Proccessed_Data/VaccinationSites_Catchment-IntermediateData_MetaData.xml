@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<title>Vaccination Sites Catchments</title>
+</citeinfo>
+</citation>
+<descript>
+<abstract>Source: https://data.calgary.ca/Health-and-Safety/Vaccination-Locations/ynek-qdgh/about_dataCollection Date: 10/16/25CRS: NAD 1983 CSRS UTM Zone 11NProcessing steps: Clipped to study area, buffers created, buffers split by community, population calculations.Attribute Definitions:VS_ID: Lettered ID for vaccination sitesVS_NAME: name of vaccination siteVS_ADDRESS1: vaccination site addressVS_ADDRESS2: secondary vaccination site address if applicablePHONE: phone number of vaccination siteCOVID_19: If Covid-19 vaccinations are offered at vaccination locationANTIVIRAL: if antiviral is offered at vaccination sitePNEUMOCOCCAL: If Pneumococcal vaccinations are offered at vaccination locationRSV: If RSV vaccinations are offered at vaccination locationTDAP: If TDAP vaccinations are offered at vaccination locationBUFFER_DISTANCE: size of buffer around each vaccination siteSUM_POP_CATCHMENT_PIECE: population covered by each bufferSITES_PER_1000: vaccination sites per 1000 individuals</abstract>
+<purpose>Intermediate data of catchment and vaccination site information</purpose>
+</descript>
+<spdom>
+<bounding>
+<westbc>-114.273416</westbc>
+<eastbc>-113.905716</eastbc>
+<northbc>51.184134</northbc>
+<southbc>50.843079</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>VaccinationSites</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst>None</useconst>
+<datacred>Lauren Roberts 2025</datacred>
+</idinfo>
+<metainfo>
+<metd>20251102</metd>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>

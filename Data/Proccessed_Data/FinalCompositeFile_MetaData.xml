@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<title>Metadata_FinalCompositeFile</title>
+</citeinfo>
+</citation>
+<descript>
+<abstract>Data sources: https://data.calgary.ca/Health-and-Safety/Vaccination-Locations/ynek-qdgh/about_datahttps://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/index.cfm?Lang=Ehttps://data.calgary.ca/Demographics/Calgary-Equity-Index-Overlay-Statistics/7g5f-dkmi/about_data Collections dates: 10/16/25, 10/17/25CRS: NAD 1983 CSRS UTM Zone 11NProcessing Steps: This is a composite file of the final analysis results. Buffer zones were created around centroids, each buffer was spilt into pieces using intersect tool with the 2021 population by community layer. Population count per catchment piece was calculated and combined to determine total population covered by each vaccination site. This was used to calculate accessibility scores of each vaccination site by sites per 1000 individuals. Attribute definitions:ANTIVIRAL: if antiviral is offered at vaccination site. AREA_Type: type of area values is measured in; in this case it is CSA. AREA_ID: ID for area locationATTRIBUTE: the CEI is measures many indicators, in this case the indicator selected is median incomeBUFFER_DISTANCE: size of buffer around each vaccination siteBUFF_SHAPE_LENGTH: shape length of buffer pieces BUFF_SHAPE_AREA: shape area of buffer piecesCATEGORY: Class of indicator CEI_RANKING: quartile ranking determined by CEI for each CSA by median income. CITY: city vaccination site is located in COMMUNITY_ABRV: abbreviated community name COMMUNITY_FULL: full community name COVID_19: If Covid-19 vaccinations are offered at vaccination locationDA_AREA_m2: area of dissemination area in meters squaredDATA_CURRENCY: information on the year or date data was procured. Fields:  COVID-19, RSV, TDAP and PNEUMOCCOCAL: if this type of vaccination is available in each vaccination site JOIN_COUNT: How many features from the join layer were matches to the target layerJOIN_FID: ID of the joined featureMEAN_VS_PER_1000: mean value of vaccination sites per 1000 people. OJECTID: the CSA number (1 through 113)PHONE: phone number of vaccination siteQUARTILE_RANKING: quartile ranking derived from Natural Breaks (Jenks) SUM_POP_CATCHMENT_PIECE: population covered by each bufferTARGET_FID: ID of the target feature from joinVALUE: median income value VALUE_LABEL: median income value distinguished by data type (currency)NEAR_FID: FID of nearest vaccination siteNEAR_DIST: nearest distance in metersVS_ID: Lettered ID for vaccination sites VS_NAME: name of vaccination site VS_ADDRESS1: vaccination site addressVS_ADDRESS2: secondary vaccination site address if applicableVS_PER_1000: raw amount of vaccination sites per 1000 peopleVS_PER_1000_FILLED: null values removed and replaced with 0</abstract>
+<purpose>This is a composite table including all edited and final data for analysis of accessibility of immunization in Calgary. </purpose>
+</descript>
+<spdom>
+<bounding>
+<westbc>-114.273416</westbc>
+<eastbc>-113.905716</eastbc>
+<northbc>51.184134</northbc>
+<southbc>50.843079</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>VaccinationAccess</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst>Accessibility of Immunization Across Calgary © 2025 by Lauren Roberts is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/</useconst>
+<datacred>Lauren Roberts 2025</datacred>
+</idinfo>
+<metainfo>
+<metd>20251101</metd>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>

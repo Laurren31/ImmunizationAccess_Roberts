@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<title>Vaccination Sites</title>
+<geoform>vector digital data</geoform>
+</citeinfo>
+</citation>
+<descript>
+<abstract>Source: https://data.calgary.ca/Health-and-Safety/Vaccination-Locations/ynek-qdgh/about_dataCollection Date: 10/16/25CRS: NAD 1983 CSRS UTM Zone 11NProcessing steps: Clipped to study area Attribute Definitions:VS_ID: Lettered ID for vaccination sitesVS_NAME: name of vaccination siteVS_ADDRESS1: vaccination site addressVS_ADDRESS2: secondary vaccination site address if applicablePHONE: phone number of vaccination siteCOVID_19: If Covid-19 vaccinations are offered at vaccination locationANTIVIRAL: if antiviral is offered at vaccination sitePNEUMOCOCCAL: If Pneumococcal vaccinations are offered at vaccination locationRSV: If RSV vaccinations are offered at vaccination locationTDAP: If TDAP vaccinations are offered at vaccination location</abstract>
+<purpose>Locations of facilities providing vaccination in Calgary</purpose>
+</descript>
+<spdom>
+<bounding>
+<westbc>-114.273416</westbc>
+<eastbc>-113.905716</eastbc>
+<northbc>51.184134</northbc>
+<southbc>50.843079</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>VaccinationSite</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst>None</useconst>
+<datacred>Lauren Roberts 2025</datacred>
+<native>Esri ArcGIS 13.5.3.57366</native>
+</idinfo>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>Entity point</sdtstype>
+<ptvctcnt>0</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>Vacc_Site_Project_Clip</enttypl>
+</enttyp>
+<attr>
+<attrlabl>OBJECTID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>Esri</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>Esri</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>id</attrlabl>
+</attr>
+<attr>
+<attrlabl>title</attrlabl>
+</attr>
+<attr>
+<attrlabl>address1</attrlabl>
+</attr>
+<attr>
+<attrlabl>address2</attrlabl>
+</attr>
+<attr>
+<attrlabl>city</attrlabl>
+</attr>
+<attr>
+<attrlabl>phone</attrlabl>
+</attr>
+<attr>
+<attrlabl>vaccinetyp</attrlabl>
+</attr>
+<attr>
+<attrlabl>vaccinet_2</attrlabl>
+</attr>
+<attr>
+<attrlabl>vaccinet_3</attrlabl>
+</attr>
+<attr>
+<attrlabl>vaccinet_4</attrlabl>
+</attr>
+<attr>
+<attrlabl>vaccinet_5</attrlabl>
+</attr>
+<attr>
+<attrlabl>vaccinet_6</attrlabl>
+</attr>
+<attr>
+<attrlabl>take_home_</attrlabl>
+</attr>
+<attr>
+<attrlabl>antiviral_</attrlabl>
+</attr>
+<attr>
+<attrlabl>latitude</attrlabl>
+</attr>
+<attr>
+<attrlabl>longitude</attrlabl>
+</attr>
+</detailed>
+</eainfo>
+<metainfo>
+<metd>20251102</metd>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>

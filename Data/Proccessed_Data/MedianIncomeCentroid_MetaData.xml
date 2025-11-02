@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<title>MedianIncome_Centroid_ExportTable</title>
+<geoform>tabular digital data</geoform>
+</citeinfo>
+</citation>
+<descript>
+<abstract>Source: https://data.calgary.ca/Demographics/Calgary-Equity-Index-Overlay-Statistics/7g5f-dkmi/about_dataCollection date: 10/16/25CRS: NAD 1983 CSRS UTM Zone 11NProcessing steps: Feature to Point tool to create centroids. Attribute definitions:ATTRIBUTE: the CEI is measures many indicators, in this case the indicator selected is median incomeVALUE: median income valueVALUE_LABEL: median income value distinguished by data type (currency)AREA_Type: type of area values is measured in; in this case it is CSA.AREA_ID: ID for area locationCEI_RANKING: quartile ranking determined by CEI for each CSA by median income.TARGET_FID: ID of the target feature from joinNEAR_FID: FID of nearest vaccination siteNEAR_DIST: nearest distance in meters</abstract>
+<purpose>The purpose of this table is show centroid location for each CSA in Calgary</purpose>
+</descript>
+<spdom>
+<bounding>
+<westbc>-114.273416</westbc>
+<eastbc>-113.905716</eastbc>
+<northbc>51.184134</northbc>
+<southbc>50.843079</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>MedianIncome</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst>None</useconst>
+<datacred>Lauren Roberts 2025</datacred>
+<native>Esri ArcGIS 13.5.3.57366</native>
+</idinfo>
+<spdoinfo>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>Entity point</sdtstype>
+<ptvctcnt>0</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>MedianIncome_Centroid_ExportTable</enttypl>
+</enttyp>
+<attr>
+<attrlabl>OBJECTID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>Esri</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>attribute</attrlabl>
+</attr>
+<attr>
+<attrlabl>category</attrlabl>
+</attr>
+<attr>
+<attrlabl>value</attrlabl>
+</attr>
+<attr>
+<attrlabl>value_labe</attrlabl>
+</attr>
+<attr>
+<attrlabl>area_type</attrlabl>
+</attr>
+<attr>
+<attrlabl>area_id</attrlabl>
+</attr>
+<attr>
+<attrlabl>ranking</attrlabl>
+</attr>
+<attr>
+<attrlabl>data_curre</attrlabl>
+</attr>
+<attr>
+<attrlabl>ORIG_FID</attrlabl>
+</attr>
+<attr>
+<attrlabl>NEAR_FID</attrlabl>
+</attr>
+<attr>
+<attrlabl>NEAR_DIST</attrlabl>
+</attr>
+</detailed>
+</eainfo>
+<metainfo>
+<metd>20251102</metd>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>

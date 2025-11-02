@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<title>Median Income by CSA</title>
+</citeinfo>
+</citation>
+<descript>
+<abstract>Source: https://data.calgary.ca/Demographics/Calgary-Equity-Index-Overlay-Statistics/7g5f-dkmi/about_dataCRS: NAD 1983 CSRS UTM Zone 11NCollections Date: 10/16/25Processing steps: N/AAttribute definitions: ATTRIBUTE: the CEI is measures many indicators, in this case the indicator selected is median incomeVALUE: median income valueVALUE_LABEL: median income value distinguished by data type (currency)AREA_Type: type of area values is measured in; in this case it is CSA.AREA_ID: ID for area locationCEI_RANKING: quartile ranking determined by CEI for each CSA by median income.</abstract>
+<purpose>This table shows median income by CSA</purpose>
+</descript>
+<spdom>
+<bounding>
+<westbc>-114.273416</westbc>
+<eastbc>-113.905716</eastbc>
+<northbc>51.184134</northbc>
+<southbc>50.843079</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>MedianIncome</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst>None</useconst>
+<datacred>Lauren Roberts 2025</datacred>
+</idinfo>
+<metainfo>
+<metd>20251102</metd>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>
