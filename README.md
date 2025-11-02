@@ -22,20 +22,20 @@ The access to vaccination sites indicator examines the spatial dimensions of pub
 
 ## Folder Structure
 
-Within the main folder are three subfolders: `Data`, `Documents`, and `Output_Figures`.
+Within the main folder are three subfolders: Data, Documents, and Output_Figures.
 
-- **`Data/`**
-  - **`Raw_Data/`** – Contains all unedited raw data directly from the source.
-  - **`Processed_Data/`** – Includes edited intermediate and final data, metadata, and schemas.
-    - **`FinalCompositeFile`** – The final analysis table containing median income, vaccination sites, nearest distance, and all calculated fields.  
+- **Data/**
+  - **Raw_Data/** – Contains all unedited raw data directly from the source.
+  - **Processed_Data/** – Includes edited intermediate and final data, metadata, and schemas.
+    - **FinalCompositeFile** – The final analysis table containing median income, vaccination sites, nearest distance, and all calculated fields.  
       A secondary sheet includes results from an *ANOVA: Single Factor* analysis.
 
-- **`Documents/`**
+- **Documents/**
   - Contains the written report titled *“WrittenReport_Accessibility_of_Immunization”*, including results and findings.  
   - Citations, references, and license information can be found in **Section 9** of this report.
 
-- **`Output_Figures/`**
-  - **`Graphs/`** – Holds output scatterplots and boxplots.
+- **Output_Figures/**
+  - **Graphs/** – Holds output scatterplots and boxplots.
   - **`Maps/`** – Contains map layout outputs.
 
 ---
