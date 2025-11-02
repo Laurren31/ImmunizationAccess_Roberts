@@ -51,9 +51,9 @@ Within the main folder are three subfolders: Data, Documents, and Output_Figures
 
 ## Data Sources
 
-- **Vaccination Locations:** Calgary Open Data Portal (data provided by Blue Cross), accessed *October 16, 2025*  
-- **Median Income:** Calgary Open Data Portal (data provided by Calgary Equity Index Overlay Statistics), accessed *October 16, 2025*  
-- **2021 Federal Population and Dwelling Count by Community:** Statistics Canada, accessed *October 17, 2025*
+- **Vaccination Locations:** Calgary Open Data Portal (data provided by Blue Cross), accessed October 16, 2025 
+- **Median Income:** Calgary Open Data Portal (data provided by Calgary Equity Index Overlay Statistics), accessed October 16, 2025 
+- **2021 Federal Population and Dwelling Count by Community:** Statistics Canada (data provided by the 2021 Census), accessed October 17, 2025
 
 ---
 
