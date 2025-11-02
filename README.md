@@ -89,7 +89,6 @@ This analysis was completed using **ArcGIS Pro** and **Excel** with a modified p
 | **COVID_19** | If COVID-19 vaccinations are offered |
 | **DA_AREA_m2** | Area of dissemination area (m²) |
 | **DATA_CURRENCY** | Year/date data was obtained |
-| **COVID-19 / RSV / TDAP / PNEUMOCOCCAL** | Indicates if this vaccine type is available at site |
 | **Global_ID** | ID assigned to community by 2021 Census |
 | **JOIN_COUNT** | Number of features matched from join layer |
 | **JOIN_FID** | ID of the joined feature |
