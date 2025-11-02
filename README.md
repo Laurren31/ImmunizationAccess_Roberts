@@ -32,7 +32,7 @@ Within the main folder are three subfolders: Data, Documents, and Output_Figures
 
 - **Documents/**
   - Contains the written report titled *“WrittenReport_Accessibility_of_Immunization”*, including results and findings.  
-  - Citations, references, and license information can be found in **Section 9** of this report.
+  - Citations, references, and license information can be found in Section 9 of this report.
 
 - **Output_Figures/**
   - **Graphs/** – Holds output scatterplots and boxplots.
@@ -45,7 +45,7 @@ Within the main folder are three subfolders: Data, Documents, and Output_Figures
 - Processed data: **CSV files**  
 - Raw data: **Shapefiles**  
 - All data projected using **NAD 1983 CSRS UTM Zone 11N**  
-- The CEI (Calgary Equity Index) is completed over **Community Service Areas** — a custom geography formed by combining two adjacent census tracts to reach approximately 10,000 people.
+- The CEI (Calgary Equity Index) is completed over Community Service Areas — a custom geography formed by combining two adjacent census tracts to reach approximately 10,000 people.
 
 ---
 
