@@ -32,7 +32,7 @@ Within the main folder are three subfolders: Data, Documents, and Output_Figures
 
 - **Documents/**
   - Contains the written report titled *“WrittenReport_Accessibility_of_Immunization”*, including results and findings.  
-  - Citations, references, and license information can be found in Section 9 of this report.
+  - Citations, references, and license information can be found in sections 9 and 10 of this report.
 
 - **Output_Figures/**
   - **Graphs/** – Holds output scatterplots and boxplots.
