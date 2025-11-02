@@ -4,12 +4,7 @@
 ---
 
 ## Project Overview
-The *Access to Vaccination Sites* indicator examines the spatial dimensions of public health equity, exploring whether income influences the accessibility of immunization services.
-
-This analysis compares the spatial distribution of vaccination sites with median household income across Calgary’s Community Service Areas (CSAs) to identify potential disparities in the availability of services.
-
-**Research question:**  
-> *To what extent does household income affect access to immunization within Calgary?*
+The access to vaccination sites indicator examines the spatial dimensions of public health equity, exploring whether income influences the accessibility of immunization services. This analysis compares the spatial distribution of vaccination sites with median household income across Calgary’s Community Service Areas (CSAs) to identify potential disparities in the availability of services. Namely, this indicator seeks to answer the question: To what extent does household income affect access to immunization within Calgary?
 
 ---
 
