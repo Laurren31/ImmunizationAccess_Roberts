@@ -66,7 +66,7 @@ This analysis was completed using **ArcGIS Pro** and **Excel** with a modified p
 - Accessibility scores were defined as the number of vaccination sites available per 1,000 individuals.  
 - An **ANOVA: Single Factor** analysis tested whether there was a statistically significant relationship between median income and spatial access.
 
-📄 Detailed methodology is available in **Section 4** of *“WrittenReport_Accessibility_of_Immunization”* (in the `Documents` folder).
+ Detailed methodology is available in **Section 4** of *“WrittenReport_Accessibility_of_Immunization”* - in the Documents folder.
 
 ---
 
@@ -119,7 +119,7 @@ This analysis was completed using **ArcGIS Pro** and **Excel** with a modified p
 
 ## Licence and Citation
 
-- Full citation information available in **Section 9** of *“WrittenReport_Accessibility_of_Immunization”* (in the `Documents` folder).  
+- Full citation information available in **Section 9** of *“WrittenReport_Accessibility_of_Immunization”* - in the Documents folder. 
 - **Citation:**  
   > Lauren Roberts (2025). *Accessibility of Immunization Across Calgary.*  
   > [https://github.com/Laurren31/ImmunizationAccess_Roberts](https://github.com/Laurren31/ImmunizationAccess_Roberts)
