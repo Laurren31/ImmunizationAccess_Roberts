@@ -86,7 +86,7 @@ This analysis was completed using **ArcGIS Pro** and **Excel** with a modified p
 | **CITY** | City vaccination site is located in |
 | **COMMUNITY_ABRV** | Abbreviated community name |
 | **COMMUNITY_FULL** | Full community name |
-| **COVID_19** | If COVID-19 vaccinations are offered |
+| **COVID_19** | If COVID-19 vaccinations are offered at vaccination site |
 | **DA_AREA_m2** | Area of dissemination area (m²) |
 | **DATA_CURRENCY** | Year/date data was obtained |
 | **GLOBAL_ID** | ID assigned to community by 2021 Census |
@@ -95,14 +95,14 @@ This analysis was completed using **ArcGIS Pro** and **Excel** with a modified p
 | **MEAN_VS_PER_1000** | Mean vaccination sites per 1,000 people |
 | **OBJECTID** | CSA number (1–113) |
 | **PHONE** | Phone number of vaccination site |
-| **PNEUMOCOCCAL** | If Pneumococcal vaccinations are offered |
+| **PNEUMOCOCCAL** | If Pneumococcal vaccinations are offered at vaccination site |
 | **QUARTILE_RANKING** | Quartile ranking derived from Natural Breaks (Jenks) |
-| **RSV** | If RSV vaccinations are offered |
+| **RSV** | If RSV vaccinations are offered at vaccination site |
 | **SUM_POP_CATCHMENT_PIECE** | Population covered by each buffer |
 | **SITES_PER_1000** | Vaccination sites per 1,000 individuals |
 | **SITES_PER_1000_FILLED** | Same as above, with nulls replaced by 0 |
 | **TARGET_FID** | ID of target feature from join |
-| **TDAP** | If TDAP vaccinations are offered |
+| **TDAP** | If TDAP vaccinations are offered at vaccination site |
 | **VALUE** | Median income value |
 | **VALUE_LABEL** | Median income value with currency formatting |
 | **NEAR_FID** | FID of nearest vaccination site |
