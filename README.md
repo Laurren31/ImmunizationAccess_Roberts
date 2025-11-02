@@ -1,9 +1,9 @@
-# 🩺 ImmunizationAccess_Roberts
+# ImmunizationAccess_Roberts
 **Accessibility of Immunization Across Calgary**
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 The *Access to Vaccination Sites* indicator examines the spatial dimensions of public health equity, exploring whether income influences the accessibility of immunization services.
 
 This analysis compares the spatial distribution of vaccination sites with median household income across Calgary’s Community Service Areas (CSAs) to identify potential disparities in the availability of services.
@@ -13,7 +13,7 @@ This analysis compares the spatial distribution of vaccination sites with median
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 Within the main folder are three subfolders: `Data`, `Documents`, and `Output_Figures`.
 
@@ -33,7 +33,7 @@ Within the main folder are three subfolders: `Data`, `Documents`, and `Output_Fi
 
 ---
 
-## 🌐 CRS and Data Format
+## CRS and Data Format
 
 - Processed data: **CSV files**  
 - Raw data: **Shapefiles**  
@@ -42,7 +42,7 @@ Within the main folder are three subfolders: `Data`, `Documents`, and `Output_Fi
 
 ---
 
-## 🗂️ Data Sources
+## Data Sources
 
 - **Vaccination Locations:** Calgary Open Data Portal (data provided by Blue Cross), accessed *October 16, 2025*  
 - **Median Income:** Calgary Open Data Portal (data provided by Calgary Equity Index Overlay Statistics), accessed *October 16, 2025*  
@@ -50,7 +50,7 @@ Within the main folder are three subfolders: `Data`, `Documents`, and `Output_Fi
 
 ---
 
-## ⚙️ Methods Summary
+## Methods Summary
 
 This analysis was completed using **ArcGIS Pro** and **Excel** with a modified proximity-based approach.
 
@@ -63,7 +63,7 @@ This analysis was completed using **ArcGIS Pro** and **Excel** with a modified p
 
 ---
 
-## 🧾 Alphabetical Field Dictionary
+## Alphabetical Field Dictionary
 
 | **Field** | **Description** |
 |------------|-----------------|
@@ -110,7 +110,7 @@ This analysis was completed using **ArcGIS Pro** and **Excel** with a modified p
 
 ---
 
-## ⚖️ Licence and Citation
+##  Licence and Citation
 
 - Full citation information available in **Section 9** of *“WrittenReport_Accessibility_of_Immunization”* (in the `Documents` folder).  
 - **Citation:**  
@@ -122,7 +122,7 @@ This analysis was completed using **ArcGIS Pro** and **Excel** with a modified p
 
 ---
 
-## 📬 Contact
+##  Contact
 
 **Lauren Roberts**  
 📧 [Lauren.c.Roberts31@gmail.com](mailto:Lauren.c.Roberts31@gmail.com)
