@@ -6,7 +6,7 @@ The access to vaccination sites indicator examines the spatial dimensions of pub
 
 Folder Structure: 
 Within the main folder resides 3 subfolders: Data, Documents, and Output Figures. 
-- All data will be stored in the “Data” folder. Within this folder there are two subfolders: “Raw Data”: this folder contains all the unedited raw data directly from the source; and Processed Data: this folder includes edited intermediate and final data, as well as associated metadata and schemas. 
+- All data will be stored in the “Data” folder. Within this folder there are two subfolders: “Raw Data”: this folder contains all the unedited raw data directly from the source; and "Processed_Data": this folder includes edited intermediate and final data, as well as associated metadata and schemas. Within the "Processed_Data" folder there is a FinalCompositeFile this table includes the final data from the analysis, holding median income, vaccination sites, nearest distance and all other calculated feilds as well as a secondary sheet detailing the results from an ANOVA: Single Factor analysis. 
 - The “Documents” folder holds documents such as the README, a written report including results and findings, and a citations document.
 - The “Output_Figures” folder contains two subfolders: the “Graphs” folder holds output scatterplot and boxplot graphs; the “Maps” folder contains output map layouts. 
 
@@ -22,7 +22,7 @@ Data Sources:
 
 Methods Summary:
 This analysis was completed using ArcGIS Pro and Excel using a modified proximity-based approach. Buffer zones of 1 km were created around each immunization site and population count was calculated for each catchment. Population calculations were completed under the assumption of uniform distribution of individuals and used Euclidean distances. Using the population counts of each catchment, accessibility scores were calculated. This analysis defines accessibly scores as the number of vaccinations sites available per 1,000 individuals. Following this, an ANOVA: Single Factors analysis was completed to determine if the null hypothesis of no statistically significant relationship between median income and spatial access could be rejected or accepted.  
-- Detailed methodology can be found in the WrittenReport_Accessibility_of_Immunization
+- Detailed methodology can be found in the WrittenReport_Accessibility_of_Immunization in the "Documents" folder
 
 Alphabetical Field Dictionary: 
 - ANTIVIRAL: if antiviral is offered at vaccination site. 
