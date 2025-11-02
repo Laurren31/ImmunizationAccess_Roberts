@@ -36,7 +36,7 @@ Within the main folder are three subfolders: Data, Documents, and Output_Figures
 
 - **Output_Figures/**
   - **Graphs/** – Holds output scatterplots and boxplots.
-  - **`Maps/`** – Contains map layout outputs.
+  - **Maps/** – Contains map layout outputs.
 
 ---
 
@@ -125,11 +125,11 @@ This analysis was completed using **ArcGIS Pro** and **Excel** with a modified p
   > [https://github.com/Laurren31/ImmunizationAccess_Roberts](https://github.com/Laurren31/ImmunizationAccess_Roberts)
 
 - **License:**  
-  Accessibility of Immunization Across Calgary © 2025 by Lauren Roberts is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+  Accessibility of Immunization Across Calgary © 2025 by Lauren Roberts is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
 
 ---
 
 ## Contact
 
 **Lauren Roberts**  
-📧 [Lauren.c.Roberts31@gmail.com](mailto:Lauren.c.Roberts31@gmail.com)
+ [Lauren.c.Roberts31@gmail.com](mailto:Lauren.c.Roberts31@gmail.com)
