@@ -75,7 +75,7 @@ This analysis was completed using **ArcGIS Pro** and **Excel** with a modified p
 | **Field** | **Description** |
 |------------|-----------------|
 | **ANTIVIRAL** | Indicates if antiviral is offered at vaccination site |
-| **AREA_Type** | Type of area measured (CSA) |
+| **AREA_TYPE** | Type of area measured (CSA) |
 | **AREA_ID** | ID for area location |
 | **ATTRIBUTE** | CEI indicator used (median income) |
 | **BUFFER_DISTANCE** | Size of buffer around each vaccination site |
@@ -89,7 +89,7 @@ This analysis was completed using **ArcGIS Pro** and **Excel** with a modified p
 | **COVID_19** | If COVID-19 vaccinations are offered |
 | **DA_AREA_m2** | Area of dissemination area (m²) |
 | **DATA_CURRENCY** | Year/date data was obtained |
-| **Global_ID** | ID assigned to community by 2021 Census |
+| **GLOBAL_ID** | ID assigned to community by 2021 Census |
 | **JOIN_COUNT** | Number of features matched from join layer |
 | **JOIN_FID** | ID of the joined feature |
 | **MEAN_VS_PER_1000** | Mean vaccination sites per 1,000 people |
