@@ -3,6 +3,17 @@
 
 ---
 
+## Table of Contents
+- [Project Overview](#-project-overview)
+- [Folder Structure](#-folder-structure)
+- [CRS and Data Format](#-crs-and-data-format)
+- [Data Sources](#️-data-sources)
+- [Methods Summary](#️-methods-summary)
+- [Alphabetical Field Dictionary](#-alphabetical-field-dictionary)
+- [Licence and Citation](#️-licence-and-citation)
+- [Contact](#-contact)
+
+
 ## Project Overview
 The access to vaccination sites indicator examines the spatial dimensions of public health equity, exploring whether income influences the accessibility of immunization services. This analysis compares the spatial distribution of vaccination sites with median household income across Calgary’s Community Service Areas (CSAs) to identify potential disparities in the availability of services. Namely, this indicator seeks to answer the question: To what extent does household income affect access to immunization within Calgary?
 
