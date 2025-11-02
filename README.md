@@ -22,7 +22,7 @@ Data Sources:
 
 Methods Summary:
 This analysis was completed using ArcGIS Pro and Excel using a modified proximity-based approach. Buffer zones of 1 km were created around each immunization site and population count was calculated for each catchment. Population calculations were completed under the assumption of uniform distribution of individuals and used Euclidean distances. Using the population counts of each catchment, accessibility scores were calculated. This analysis defines accessibly scores as the number of vaccinations sites available per 1,000 individuals. Following this, an ANOVA: Single Factors analysis was completed to determine if the null hypothesis of no statistically significant relationship between median income and spatial access could be rejected or accepted.  
-- Detailed methodology can be found in the WrittenReport_Accessibility_of_Immunization in the "Documents" folder
+- Detailed methodology can be found in section 4 of "WrittenReport_Accessibility_of_Immunization" in the "Documents" folder
 
 Alphabetical Field Dictionary: 
 - ANTIVIRAL: if antiviral is offered at vaccination site. 
@@ -67,7 +67,7 @@ Alphabetical Field Dictionary:
 - VS_PER_1000_FILLED: null values removed and replaced with 0
 
 Licence and Citation:
-- In depth citation information are in the “Citations” document within the “Documents” folder
+- In depth citation information can be foudn in section 9 of "WrittenReport_Accessibility_of_Immunization" in the "Documents" folder
 - This work can be sited as follows: Lauren Roberts 2025, Accessibility of Immunization Across Calgary, https://github.com/Laurren31/ImmunizationAccess_Roberts 
 - Accessibility of Immunization Across Calgary © 2025 by Lauren Roberts is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
 
