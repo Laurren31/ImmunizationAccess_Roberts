@@ -1,5 +1,5 @@
 # ImmunizationAccess_Roberts
-## **Accessibility of Immunization Across Calgary**
+## **Spatial Accessibility of Immunization Across Calgary**
 
 ---
 
